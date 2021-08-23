@@ -23,13 +23,9 @@ In the provided [WRITEUP.md](WRITEUP.md) file, for both a VM or App Service solu
 - Choose the appropriate solution (VM or App Service) for deploying the app
 - Justify your choice
 
-This does not need to be substantially long, but should include information on all four analysis points for each option, your choice, and at least 2-3 sentences on why you choose that option.
-
 ### Assess app changes that would change your decision.
 
 In the provided [WRITEUP.md](WRITEUP.md) file, detail how the app and any other needs would have to change for you to change your decision in the last section.
-
-This should be at least 2-3 sentences, but feel free to add as much detail as you feel necessary.
 
 ## SCREENSHOTS
 
