@@ -30,7 +30,8 @@ class Config(object):
     AUTHORITY = "https://login.microsoftonline.com/common"  # For multi-tenant app, else put tenant name
     # AUTHORITY = "https://login.microsoftonline.com/Enter_the_Tenant_Name_Here"
 
-    CLIENT_ID = "b8039741-8537-4098-8882-9c337b7e7b97"
+    #CLIENT_ID = "b8039741-8537-4098-8882-9c337b7e7b97"
+    CLIENT_ID = "2659293e-9f96-4799-bc01-e4aaa8a7c182"
 
     REDIRECT_PATH = "/getAToken"  # Used to form an absolute URL; must match to app's redirect_uri set in AAD
 
