@@ -43,7 +43,13 @@ This folder contains sample screenshots that students are required to submit in 
 
 5. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
 
+![screenshots/uri-redirects-solution-1.png](screenshots/uri-redirects-solution-1.png)
 
+![screenshots/uri-redirects-solution-2.png](screenshots/uri-redirects-solution-2.png)
+
+![screenshots/uri-redirects-solution-3.png](screenshots/uri-redirects-solution-3.png)
+
+![screenshots/uri-redirects-solution-4.png](screenshots/uri-redirects-solution-4.png)
 
 6. log-solution.png is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream. You can customize your log messages as you see fit for these situations.
 
