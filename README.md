@@ -43,6 +43,8 @@ This folder contains sample screenshots that students are required to submit in 
 
 5. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
 
+![screenshots/uri-redirects-solution-0.png](screenshots/uri-redirects-solution-0.png)
+
 ![screenshots/uri-redirects-solution-1.png](screenshots/uri-redirects-solution-1.png)
 
 ![screenshots/uri-redirects-solution-2.png](screenshots/uri-redirects-solution-2.png)
