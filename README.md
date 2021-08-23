@@ -13,11 +13,11 @@ This project is a Python web application built using Flask. The user can log in 
 
 You can also log in with your own Microsoft account by clicking on "Sign in with Microsoft".
 
-## writeup.md
+## WRITEUP.md
 
 ### Analyze, choose, and justify the appropriate resource option for deploying the app.
 
-In the provided [writeup.md](writeup.md) file, for both a VM or App Service solution for the CMS app:
+In the provided [WRITEUP.md](WRITEUP.md) file, for both a VM or App Service solution for the CMS app:
 
 - Analyze costs, scalability, availability, and workflow
 - Choose the appropriate solution (VM or App Service) for deploying the app
@@ -27,7 +27,7 @@ This does not need to be substantially long, but should include information on a
 
 ### Assess app changes that would change your decision.
 
-In the provided [writeup.md](writeup.md) file, detail how the app and any other needs would have to change for you to change your decision in the last section.
+In the provided [WRITEUP.md](WRITEUP.md) file, detail how the app and any other needs would have to change for you to change your decision in the last section.
 
 This should be at least 2-3 sentences, but feel free to add as much detail as you feel necessary.
 
