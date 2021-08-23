@@ -37,7 +37,9 @@ This folder contains sample screenshots that students are required to submit in 
 
 4. blob-solution.png is a screenshot showing an example of blob endpoints for where images are sent for storage.
 
+![screenshots/blob-solution-1.png](screenshots/blob-solution-1.png)
 
+![screenshots/blob-solution-2.png](screenshots/blob-solution-2.png)
 
 5. uri-redirects-solution.png is a screenshot of the redirect URIs related to Microsoft authentication.
 
