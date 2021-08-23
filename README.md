@@ -29,7 +29,7 @@ This folder contains sample screenshots that students are required to submit in 
 	- SQL Database
 	- Resources related to deploying the app
 	
-	
+![screenshots/azure-portal-resource-group.png](screenshots/azure-portal-resource-group.png)
 	
 3. sql-storage-solution.png is a screenshot showing the created tables and one query of data from the initial scripts.
 
