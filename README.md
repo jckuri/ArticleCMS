@@ -33,7 +33,7 @@ This folder contains sample screenshots that students are required to submit in 
 	
 3. sql-storage-solution.png is a screenshot showing the created tables and one query of data from the initial scripts.
 
-
+![screenshots/sql-storage-solution.png](screenshots/sql-storage-solution.png)
 
 4. blob-solution.png is a screenshot showing an example of blob endpoints for where images are sent for storage.
 
