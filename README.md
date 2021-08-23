@@ -55,6 +55,8 @@ This folder contains sample screenshots that students are required to submit in 
 
 6. log-solution.png is a screenshot showing one potential form of logging with an "Invalid login attempt" and "admin logged in successfully", taken from the app's Log stream. You can customize your log messages as you see fit for these situations.
 
+THE USER <User admin> COULD NOT LOG IN.
+THE USER <User admin> LOGGED IN SUCCESSFULLY.
 ![screenshots/log-solution.png](screenshots/log-solution.png)
 
 ## Project Instructions (For Student)
