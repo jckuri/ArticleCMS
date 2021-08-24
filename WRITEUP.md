@@ -45,7 +45,7 @@ http://blog-post.azurewebsites.net/
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
 
 - If we were migrating a preexisting software from an on-premises server to the cloud, Virtual Machines would ease this migration.
-- If we were deploying a large web applications whose requirements include high scalability and high availability, Virtual Machines could become a more attractive choice.
+- If we were deploying a large web application whose requirements include high scalability and high availability, Virtual Machines could become a more attractive choice.
 - If costs didn't matter too much, we would forget the free tier of App Services and choose expensive Virtual Machines.
 - If the hardware requirements outsized 14GB of memory and 4 vCPU cores per instance, Virtual Machines would be required.
 
